@@ -1,0 +1,30 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:////PointingToDeclaration/app/[root]/index.html
+$dokka.location:/Calculator///PointingToDeclaration/app/[root]/-calculator/index.html
+$dokka.location:/Calculator/Calculator/#/PointingToDeclaration/app/[root]/-calculator/-calculator.html
+$dokka.location:/Calculator/calculate/#kotlin.Double/PointingToDeclaration/app/[root]/-calculator/calculate.html
+$dokka.location:/Calculator/numero1/#/PointingToDeclaration/app/[root]/-calculator/numero1.html
+$dokka.location:/Calculator/op/#/PointingToDeclaration/app/[root]/-calculator/op.html
+$dokka.location:/Calculator/setOperation/#kotlin.Double#kotlin.Int/PointingToDeclaration/app/[root]/-calculator/set-operation.html
+$dokka.location:com.example.calculadoraclases////PointingToDeclaration/app/com.example.calculadoraclases/index.html
+$dokka.location:com.example.calculadoraclases/Calculator///PointingToDeclaration/app/com.example.calculadoraclases/-calculator/index.html
+$dokka.location:com.example.calculadoraclases/Calculator/Calculator/#/PointingToDeclaration/app/com.example.calculadoraclases/-calculator/-calculator.html
+$dokka.location:com.example.calculadoraclases/Calculator/calculate/#kotlin.Double/PointingToDeclaration/app/com.example.calculadoraclases/-calculator/calculate.html
+$dokka.location:com.example.calculadoraclases/Calculator/numero1/#/PointingToDeclaration/app/com.example.calculadoraclases/-calculator/numero1.html
+$dokka.location:com.example.calculadoraclases/Calculator/op/#/PointingToDeclaration/app/com.example.calculadoraclases/-calculator/op.html
+$dokka.location:com.example.calculadoraclases/Calculator/setOperation/#kotlin.Double#kotlin.Int/PointingToDeclaration/app/com.example.calculadoraclases/-calculator/set-operation.html
+$dokka.location:com.example.calculadoraclases/DisplayManager///PointingToDeclaration/app/com.example.calculadoraclases/-display-manager/index.html
+$dokka.location:com.example.calculadoraclases/DisplayManager/DisplayManager/#android.widget.TextView#android.widget.TextView/PointingToDeclaration/app/com.example.calculadoraclases/-display-manager/-display-manager.html
+$dokka.location:com.example.calculadoraclases/DisplayManager/clearDisplay/#/PointingToDeclaration/app/com.example.calculadoraclases/-display-manager/clear-display.html
+$dokka.location:com.example.calculadoraclases/DisplayManager/deleteLastCharacter/#/PointingToDeclaration/app/com.example.calculadoraclases/-display-manager/delete-last-character.html
+$dokka.location:com.example.calculadoraclases/DisplayManager/num2/#/PointingToDeclaration/app/com.example.calculadoraclases/-display-manager/num2.html
+$dokka.location:com.example.calculadoraclases/DisplayManager/showOperation/#kotlin.String#kotlin.String/PointingToDeclaration/app/com.example.calculadoraclases/-display-manager/show-operation.html
+$dokka.location:com.example.calculadoraclases/DisplayManager/showResult/#kotlin.Double/PointingToDeclaration/app/com.example.calculadoraclases/-display-manager/show-result.html
+$dokka.location:com.example.calculadoraclases/DisplayManager/updateDisplay/#kotlin.String/PointingToDeclaration/app/com.example.calculadoraclases/-display-manager/update-display.html
+$dokka.location:com.example.calculadoraclases/MainActivity///PointingToDeclaration/app/com.example.calculadoraclases/-main-activity/index.html
+$dokka.location:com.example.calculadoraclases/MainActivity/MainActivity/#/PointingToDeclaration/app/com.example.calculadoraclases/-main-activity/-main-activity.html
+$dokka.location:com.example.calculadoraclases/MainActivity/clicOperacion/#android.view.View/PointingToDeclaration/app/com.example.calculadoraclases/-main-activity/clic-operacion.html
+$dokka.location:com.example.calculadoraclases/MainActivity/presionarDigito/#android.view.View/PointingToDeclaration/app/com.example.calculadoraclases/-main-activity/presionar-digito.html
+com.example.calculadoraclases
+
